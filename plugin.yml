@@ -1,0 +1,9 @@
+name: JumpNRun
+version: 1.2
+main: de.trizion.jumpnrun.main.Main
+api-version: 1.15
+author: _Trizion_
+
+commands:
+   jnr:
+      description: JNR Commands
